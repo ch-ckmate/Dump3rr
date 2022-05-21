@@ -28,4 +28,4 @@ With this tool you can dump an entire website.
   - Open the .py.
   - Change the url with a page of the website you want to dump.
   - Set to True if you want to download videos. (vimeo=True)
-  - If you want to avoid some pages just inster it in the pagetoavoid variable. (if you want to avoid all the sub dirs, for example - https://1234test.test/lession/123/1.html just do pagetoavoid=['lession'])
+  - If you want to avoid some pages just insert it in the pagetoavoid variable. (if you want to avoid all the sub dirs, for example - https://1234test.test/lession/123/1.html just do pagetoavoid=['lession'])
